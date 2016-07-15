@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCL_NetStandard", "NetStandard\PCL_NetStandard\PCL_NetStandard.csproj", "{7B812851-AE68-42F7-B4FC-0BF571EE2206}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCL_NetStandard_1.1", "NetStandard\PCL_NetStandard\PCL_NetStandard_1.1.csproj", "{7B812851-AE68-42F7-B4FC-0BF571EE2206}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCL_111", "PCL_111\PCL_111.csproj", "{73F440E8-F4BE-46F9-9ABB-8502B56A6272}"
 EndProject
