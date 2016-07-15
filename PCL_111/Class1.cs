@@ -2,12 +2,12 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-//using Humanizer;
+using Humanizer;
 
-namespace PCL_NetStandard
+namespace PCL_111
 {
     public class Class1
     {
-        //      string test = "".Pluralize();
+        string aaa = "".Pluralize();
     }
 }
